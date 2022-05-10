@@ -1,2 +1,2 @@
 def print():
-    print("bina package waali package nahi lagegi")
+    print("bina package waali placement nahi lagegi")
